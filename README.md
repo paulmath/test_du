@@ -4,11 +4,11 @@ This repository contains the code sample for the technical test at Descartes Und
 
 # Files
 
-Contains the python code in the file : test_du.ipynb
+Contains the python code in the file : *test_du.ipynb*
 
-Contains the training and testing csv files : train_auto.csv and test_auto.csv
+Contains the training and testing csv files : *train_auto.csv* and *test_auto.csv*
 
-contains the required output csv file : output.csv 
+contains the required output csv file : *output.csv*
 
 # Libraries
 
